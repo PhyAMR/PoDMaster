@@ -1,0 +1,3 @@
+[submodule "LCP/Classes"]
+	path = LCP/Classes
+	url = git@github.com:PhyAMR/LaboratoryOfComputationalPhysics_Y8.git

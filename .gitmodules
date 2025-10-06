@@ -1,3 +1,6 @@
 [submodule "LCP/Classes"]
 	path = LCP/Classes
 	url = git@github.com:PhyAMR/LaboratoryOfComputationalPhysics_Y8.git
+[submodule "MTP/Models-of-Theoretical-Physics-Personal"]
+	path = MTP/Models-of-Theoretical-Physics-Personal
+	url = git@github.com:PhyAMR/Models-of-Theoretical-Physics-Personal.git

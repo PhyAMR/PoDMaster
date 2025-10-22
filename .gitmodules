@@ -10,3 +10,6 @@
 [submodule "MAPD"]
 	path = MAPD
 	url = git@github.com:PhyAMR/MAPD.git
+[submodule "ML"]
+	path = ML
+	url = git@github.com:PhyAMR/ML.git

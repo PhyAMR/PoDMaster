@@ -1,4 +1,3 @@
-ML/slides/
-MTP/Models-Of-Theoretical-Phisics-Personal/update_notes.sh
 GEMINI.md 
-professor_notes/
+commit_and_push_all.sh 
+convert_to_latex.py 

@@ -7,3 +7,6 @@
 [submodule "QIAP"]
 	path = QIAP
 	url = git@github.com:PhyAMR/QIAP.git
+[submodule "MAPD"]
+	path = MAPD
+	url = git@github.com:PhyAMR/MAPD.git

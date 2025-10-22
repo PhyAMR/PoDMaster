@@ -4,3 +4,6 @@
 [submodule "LCP"]
 	path = LCP
 	url = git@github.com:PhyAMR/LCP.git
+[submodule "QIAP"]
+	path = QIAP
+	url = git@github.com:PhyAMR/QIAP.git
